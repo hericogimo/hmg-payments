@@ -16,7 +16,7 @@ p {
     margin: 10px 0;
 }
 
-select#item-options{
+select{
     margin: 5px 0;
     padding: 8px 2px;
     width: 100%;
@@ -24,11 +24,6 @@ select#item-options{
     border-radius: 6px;
     outline: none;
     font-weight: bold;
-}
-select:last-child {
-    visibility: hidden;
-    display: none;
-    position: absolute;
 }
 
 .formDv {
